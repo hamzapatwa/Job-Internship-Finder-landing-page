@@ -31,7 +31,10 @@ export default function Hero() {
                 <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://github.com/SimplifyJobs/Summer2024-Internships">Internship database</a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://chat.openai.com/g/g-kjTvyfekq-career-advisor">AI Advisor</a>
+                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full sm:w-auto sm:ml-4" href="https://chat.openai.com/g/g-kjTvyfekq-career-advisor">AI Advisor</a>
+              </div>
+              <div data-aos="fade-up" data-aos-delay="600">
+                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full sm:w-auto sm:ml-4" href="https://chat.openai.com/g/g-kjTvyfekq-career-advisor">AI Advisor</a>
               </div>
             </div>
           </div>

@@ -29,7 +29,8 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">#TODO FILL IN THE REVIEWS</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">The job application tracker is intuitive and the AI career advisor gave me great tips for my interviews. Highly recommend!
+</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Hamza Patwa</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
               </div>
@@ -45,7 +46,7 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">#TODO FILL IN THE REVIEWS</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">This database made my internship search so much easier! The tracker keeps all my applications in check.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Kathryn Choi</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
               </div>
@@ -61,7 +62,7 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">#TODO FILL IN THE REVIEWS</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">The AI advisor is like a mentor guiding you through the job market maze. A must-have for all job seekers!</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Eric Zwierzynski</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
               </div>
