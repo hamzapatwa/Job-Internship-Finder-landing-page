@@ -34,7 +34,7 @@ export default function Hero() {
                 <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full sm:w-auto sm:ml-4" href="https://chat.openai.com/g/g-kjTvyfekq-career-advisor">AI Advisor</a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full sm:w-auto sm:ml-4" href="https://chat.openai.com/g/g-kjTvyfekq-career-advisor">AI Advisor</a>
+                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full sm:w-auto sm:ml-4" href="https://chat.openai.com/g/g-kjTvyfekq-career-advisor">Application Tracker</a>
               </div>
             </div>
           </div>
