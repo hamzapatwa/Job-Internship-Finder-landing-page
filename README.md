@@ -1,4 +1,4 @@
-# Discord Internship Finder
+# Internship Finder
 
 ## Overview
 Welcome to the Discord Internship Finder! Our mission is to connect students, recent graduates, and professionals with exciting internship opportunities. This platform is your gateway to finding the perfect internship match based on your skills, interests, and career aspirations.
